@@ -1,0 +1,16 @@
+C:\Users\Nikoloz\source\repos\net-mid-exam\net-mid-exam\bin\Debug\net6.0\ExternalLibrary.dll
+C:\Users\Nikoloz\source\repos\net-mid-exam\net-mid-exam\bin\Debug\net6.0\net-mid-exam.exe
+C:\Users\Nikoloz\source\repos\net-mid-exam\net-mid-exam\bin\Debug\net6.0\net-mid-exam.deps.json
+C:\Users\Nikoloz\source\repos\net-mid-exam\net-mid-exam\bin\Debug\net6.0\net-mid-exam.runtimeconfig.json
+C:\Users\Nikoloz\source\repos\net-mid-exam\net-mid-exam\bin\Debug\net6.0\net-mid-exam.dll
+C:\Users\Nikoloz\source\repos\net-mid-exam\net-mid-exam\bin\Debug\net6.0\net-mid-exam.pdb
+C:\Users\Nikoloz\source\repos\net-mid-exam\net-mid-exam\obj\Debug\net6.0\net-mid-exam.csproj.AssemblyReference.cache
+C:\Users\Nikoloz\source\repos\net-mid-exam\net-mid-exam\obj\Debug\net6.0\net-mid-exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikoloz\source\repos\net-mid-exam\net-mid-exam\obj\Debug\net6.0\net-mid-exam.AssemblyInfoInputs.cache
+C:\Users\Nikoloz\source\repos\net-mid-exam\net-mid-exam\obj\Debug\net6.0\net-mid-exam.AssemblyInfo.cs
+C:\Users\Nikoloz\source\repos\net-mid-exam\net-mid-exam\obj\Debug\net6.0\net-mid-exam.csproj.CoreCompileInputs.cache
+C:\Users\Nikoloz\source\repos\net-mid-exam\net-mid-exam\obj\Debug\net6.0\net-mid-exam.dll
+C:\Users\Nikoloz\source\repos\net-mid-exam\net-mid-exam\obj\Debug\net6.0\refint\net-mid-exam.dll
+C:\Users\Nikoloz\source\repos\net-mid-exam\net-mid-exam\obj\Debug\net6.0\net-mid-exam.pdb
+C:\Users\Nikoloz\source\repos\net-mid-exam\net-mid-exam\obj\Debug\net6.0\net-mid-exam.genruntimeconfig.cache
+C:\Users\Nikoloz\source\repos\net-mid-exam\net-mid-exam\obj\Debug\net6.0\ref\net-mid-exam.dll
